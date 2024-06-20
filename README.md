@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/coffee/coffee.numix_icons>
 # Coffee -- numix icons
 
 ![colourscheme preview](https://files.ari-web.xyz/files/github.com.coffee.numix_icons.jpg)
